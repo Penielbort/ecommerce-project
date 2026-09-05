@@ -1,1 +1,1 @@
-This is a reach ecommerce-project
+This is a react ecommerce-project
